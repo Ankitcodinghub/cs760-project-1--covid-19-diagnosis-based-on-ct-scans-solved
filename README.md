@@ -1,0 +1,1 @@
+# cs760-project-1--covid-19-diagnosis-based-on-ct-scans-solved
